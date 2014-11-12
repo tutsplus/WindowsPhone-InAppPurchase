@@ -1,0 +1,21 @@
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\ApplicationIcon.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\Tiles\FlipCycleTileLarge.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\Tiles\FlipCycleTileMedium.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\Tiles\FlipCycleTileSmall.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\Tiles\IconicTileMediumLarge.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Assets\Tiles\IconicTileSmall.png
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\WAT Test.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\WAT Test.pdb
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\AppManifest.xaml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\Properties\WMAppManifest.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\WAT_Test_Debug_AnyCPU.xap
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\Bin\Debug\GoogleAds.xml
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\App.g.cs
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\MainPage.g.cs
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\RemoveAds.g.cs
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\WAT Test.g.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\WAT_Test.Resources.AppResources.resources
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\Tutsplus IAP Demo.csproj.GenerateResource.Cache
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\WAT Test.dll
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\WAT Test.pdb
+C:\Users\vivek\Documents\Visual Studio 2013\Projects\Tutorials\WAT Test\WAT Test\obj\Debug\XapCacheFile.xml
